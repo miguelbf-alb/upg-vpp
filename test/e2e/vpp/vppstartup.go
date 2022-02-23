@@ -71,7 +71,7 @@ plugins {
 }
 
 buffers {
-  default data-size 10000
+  default data-size 3500
 }
 
 {{- if .InterruptMode }}
